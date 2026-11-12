@@ -16,3 +16,6 @@ Alle Dashman-tegninger fra læreren (og én Claude-tegnet) samlet på ett sted, 
 **Merknad om bilteksten:** På bensinstasjon-tegningen står det «BENSIN MACHT FREI» på bilen. Claude har frarådet det (ordspill på slagordet over porten til Auschwitz) og bruker en nøytral tekst på bilen til læreren har bestemt seg.
 
 Nye Dashman-tegninger: legg PDF-en her (`<navn>.pdf`), lag en PNG på mørk bakgrunn (`pdftocairo -png -transp -r 150 -singlefile`, så legg på #0d1110), før den opp i tabellen og lag `oversikt.jpg` på nytt.
+| `dash_ned.png`, `dash_luft.png` | Skater-Dashman klippet ut av `skaterampe` (uten rampa), til animasjon i rampa. | Energibevaring |
+| `fk_hihi_tom.png`, `fk_skudd_tom.png` | De to fjærkanon-rutene uten den gule fjæra og kula (fjæra tegnes og animeres for seg). | Energibevaring |
+| `dash1–3.svg` | De tre rutene fra `tegneserie-fjaer` som egne elementer. | Potensiell energi |
